@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geekspor1um
-- 👀 I’m interested in ...Network Engineering 
+- 👀 I’m interested in ...Network Engineering / Software Engineering
 - 🌱 I’m currently learning ...Networks; Servers; Programming  >>> Anything that fascinates me :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
